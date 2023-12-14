@@ -12,4 +12,6 @@ def main() -> int:
 
     return len(hold_ts)
 
-print(main())
+
+if __name__ == "__main__":
+    print(main())

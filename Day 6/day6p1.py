@@ -17,4 +17,6 @@ def main() -> int:
         possibles  *= len(hold_ts)
     return possibles
 
-print(main())
+
+if __name__ == "__main__":
+        print(main())
